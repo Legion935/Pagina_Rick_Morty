@@ -7,7 +7,7 @@ body {
 }
 
 .title {
-  color: #738f93;
+  color: #69a6ae;
   font-size: 40px;
   font-family: fantasy, sans-serif;
   margin-bottom: 0;
@@ -19,7 +19,7 @@ body {
 }
 
 .btn-search {
-  background-color: #1ba94c;
+  background-color: #1bb350;
   color: #ffffff;
   box-shadow: 0 4px 12px rgb(27 169 76 / 50%);
   font-size: 18.005px;
